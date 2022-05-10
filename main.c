@@ -8,7 +8,7 @@
 
 
 int main()
-{
+{ //Rufe Funktion auf
     int day, month, year;
     struct Date date = input_date();
     if (exists_date(date))
