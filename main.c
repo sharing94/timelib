@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "zeit.h"
+#include "zeit.h"    //Erstellter header
 
 
 int main()
